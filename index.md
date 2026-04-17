@@ -7,7 +7,7 @@
 
 ## A Systems Programming Manifesto
 
-> But at the same time, I mean, nothing lasts forever.  
-> I'm sure some clueless young person will decide how hard can it be and
-> start his own operating system.  
-> **Linus Torvalds**
+> After more than two decades of grappling with memory safety issues in C and C++,
+> the software engineering community has reached a consensus.
+> It’s not enough to rely on bug-finding tools.  
+> **DARPA**
