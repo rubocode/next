@@ -1,11 +1,9 @@
 
-> [home](/programming)
-> &bull; [next-c](/next-c)
-> &bull; [next-gp](/next-gp)
+> [home](/computing)
 
-![banner](/next/photos/banner.png)
+![banner](/languages/photos/banner.png)
 
-## A Systems Programming Manifesto
+## For Systems Programming
 
 > After more than two decades of grappling with memory safety issues in C and C++,
 > the software engineering community has reached a consensus.
