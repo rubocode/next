@@ -1,4 +1,3 @@
-> [home](/)
 > &bull; [next-c](/next-c)
 > &bull; [next-gp](/next-gp)
 
